@@ -87,10 +87,13 @@ https://www.mongodb.com/cloud/atlas/lp/try2
 *ui*
 http://localhost:4000/graphql
 
-[select](md_img/ui_graphql.PNG)
+##### get graphQL
+![select](md_img/ui_graphql.
+##### insert graphQL
+![insert_01](md_img/ui_graphql_insert.PNG)
+![insert_02](md_img/ui_graphql_insert_01.PNG)
 
-[insert_01](md_img/ui_graphql_insert.PNG)
-[insert_02](md_img/ui_graphql_insert_01.PNG)
-[releation_inser_select](md_img/releation_inser_select.PNG)
-[releation_inser_select01](md_img/releation_inser_select01.PNG)
+##### releation insert graphQL
+![releation_inser_select](md_img/releation_inser_select.PNG)
+![releation_inser_select01](md_img/releation_inser_select01.PNG)
 
